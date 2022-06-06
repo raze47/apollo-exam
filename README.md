@@ -68,3 +68,11 @@ php artisan dusk
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+
+## Apollo Exam
+
+Since I couldn't use sqlite, I used MySQL
+
+in order to check my work, go to https://<your-link>/apollo
+![image](https://user-images.githubusercontent.com/47744691/172178736-6bfbf005-65f4-49e1-8898-b28b734b265e.png)
+
